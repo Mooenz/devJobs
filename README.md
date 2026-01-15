@@ -72,5 +72,6 @@ Abre http://localhost:5173 (u otro puerto que Vite indique).
 Proyecto basado en el material educativo de Midudev (jscamp.dev) como punto de partida para el aprendizaje personal.
 
 ## Contacto
-
-
+- Website [mooenz.me](https://www.mooenz.me/)
+- GitHub [@mooenz](https://github.com/Mooenz)
+- Twitter [@mooenzdev](https://twitter.com/MooenzDev)
